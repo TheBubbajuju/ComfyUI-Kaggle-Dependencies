@@ -483,7 +483,7 @@
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "flux2\\flux-2-klein-9b-kv-fp8.safetensors",
+        "flux2/flux-2-klein-9b-kv-fp8.safetensors",
         "default"
       ]
     },
